@@ -28,13 +28,16 @@ concurrente de múltiples ramas activas.
    ```bash
    git clone [https://github.com/LuM-343/MorseLink.git](https://github.com/LuM-343/MorseLink.git)
    cd MorseLink
-Ejecutar la interfaz gráfica principal:
-  python "UI USUARIO.py"
+   
+2. **Ejecutar la interfaz gráfica principal:**
+   ```bash
+   python "UI USUARIO.py"
 
-Ejecutar la suite de pruebas del motor en consola:
-  python motor_ANDF_Braille.py
+3. **Ejecutar la suite de pruebas del motor en consola:**
+   ```bash
+   python motor_ANDF_Braille.py
 
-👥 Equipo de Desarrollo
+##👥 Equipo de Desarrollo
 Andres Sebastián Aguilón Cardona — Dev 1: Backend Core y Motor Lógico AFND
 
 Carlos Andrés Cholotío Mendoza — Dev 2: Frontend GUI y Manejo de Eventos
@@ -44,3 +47,6 @@ Luis Manuel Velásquez Gonsález — Dev 3: Representación Gráfica e Integraci
 Dan Mahli Soberanis Galindo — Dev 4: QA, Documentación Técnica y Control de Entregables
 
 Moshé Arenz Pelaez Virula — Control y Pruebas
+
+
+📄 **[Descargar Documentación Técnica Oficial (PDF)](MorseLink_AFND_Documentación.pdf)**

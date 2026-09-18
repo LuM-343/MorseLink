@@ -37,7 +37,7 @@ concurrente de múltiples ramas activas.
    ```bash
    python motor_ANDF_Braille.py
 
-##👥 Equipo de Desarrollo
+## 👥 Equipo de Desarrollo
 Andres Sebastián Aguilón Cardona — Dev 1: Backend Core y Motor Lógico AFND
 
 Carlos Andrés Cholotío Mendoza — Dev 2: Frontend GUI y Manejo de Eventos
